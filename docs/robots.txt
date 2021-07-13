@@ -1,0 +1,2 @@
+Sitemap: https://www.rnetian.in/sitemap.xml
+Sitemap: https://www.rnetian.in/sitemap_index.xml
