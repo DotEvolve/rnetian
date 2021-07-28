@@ -3,9 +3,9 @@ Contributors: Zoho Mail
 Tags: mail,mailer,phpmailer,wp_mail,email,zoho,zoho mail
 Donate link: none
 Requires at least: 4.8
-Tested up to: 5.7.1
+Tested up to: 5.8
 Requires PHP: 5.6
-Stable tag: 1.4.4
+Stable tag: 1.4.6
 License: BSD
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -132,8 +132,15 @@ In case, you are not sure on how to proceed with the Zoho Mail plugin, feel free
 * Added admin notice for transmail plugin
 = 1.4.4 = 
 * Admin notice displayed only in configuration page
+= 1.4.5 = 
+* Zeptomail Notice and Warning message bug fix
+= 1.4.6 =
+* Tested for Wordpress 5.8
+
 == Upgrade Notice ==
 none
+
+
 
 
 
